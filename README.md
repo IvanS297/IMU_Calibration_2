@@ -1,4 +1,3 @@
-markdown
 # IMU Calibration 2
 
 Calibration and orientation estimation for the **HMC5883L** magnetometer and **MPU6050** IMU using Python. This project provides scripts to calibrate the magnetometer, compute heading, fuse sensor data with a Kalman filter, and visualize the results with Pygame.
